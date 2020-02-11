@@ -1,19 +1,20 @@
-title = "Eddie Webb"
-baseURL = "https://example.com/"
+title = "JIN Hui"
+baseURL = "https://jinhui.de"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
-PygmentsStyle = "monokai"
+PygmentsStyle = "solarized-dark"
 enableGitInfo = false
+publishdir = "docs"
 
 [params]
-address = "Rollinsford, NH"
-email = "email@domain.com"
+address = "Stuttgart, DE"
+email = "hijcss@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
-phone = "1-555-555-1234"
+firstName = "JIN"
+lastName = "Hui"
+phone = "dont call"
 profileImage = "img/TechChat.png"
 showEducation = true
 showExperience = true
