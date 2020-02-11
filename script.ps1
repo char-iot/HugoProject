@@ -1,4 +1,4 @@
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 choco install git -confirm
 
@@ -13,10 +13,10 @@ cup all
 
 hugo new site HugoProject --force
 
-cd .\HugoProject\
+Set-Location .\HugoProject\
 
 #git init
 git submodule add https://github.com/eddiewebb/hugo-resume.git themes/hugo-resume
 git submodule add https://github.com/htr3n/hyde-hyde.git themes/hyde-hyde
 
-cp -R .\themes\hugo-resume\exampleSite\* . -force
+Copy-Item -R .\themes\hugo-resume\exampleSite\* . -force

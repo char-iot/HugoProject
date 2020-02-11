@@ -1,15 +1,42 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school": "[it.schule stuttgart](https://www.its-stuttgart.de/)",
+        "major": "Fachinformatiker",
+        "range": "01.09.2016 – 15.01.2019"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school": "[DHBW Stuttgart](https://www.dhbw-stuttgart.de/)",
+        "major": "Wirtschaftsinformatik",
+        "range": "01.10.2015 – 13.05.2016"
+    },
+    {
+        "school": "[Karlsruher Institut für Technologie (KIT)](http://www.kit.edu/)",
+        "major": "Informatik",
+        "range": "01.10.2012 – 30.09.2014"
+    },
+    {
+        "school": "[Gymnasium Plochingen](https://www.gymnasiumplochingen.de/)",
+        "degree": "Abitur",
+        "notes": "Plochingen",
+        "range": "04.2009 – 07.2012"
+    },
+    {
+        "school": "[Wilhelmsgymnasium](http://www.wilhelms-gymnasium.de/)",
+        "notes": "Stuttgart-Degerloch",
+        "range": "03.2007 – 02.2009"
+    },
+    {
+        "school": "[henke schulungen](https://www.henke-schulungen.de/)",
+        "major": "Deutsch",
+        "notes": "Sprachkurse A1 bis C1",
+        "range": "09.2006 – 03.2007"
+    },
+    {
+        "school": "Middle School in China",
+        "range": "09.2003 – 06.2006"
+    },
+    {
+        "school": "Elementary School in China",
+        "range": "09.1997 – 06.2003"
     }
 ]
