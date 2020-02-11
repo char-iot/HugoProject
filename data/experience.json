@@ -1,20 +1,30 @@
 [
     {
-        "role":"DevOps",
-        "company":"Dr. Ellwanger & Kramm Versicherungsmakler GmbH & Co. KG",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"15.01.2019 - heute"
+        "role": "DevOps",
+        "company": "Dr. Ellwanger & Kramm Versicherungsmakler GmbH & Co. KG",
+        "summary": "Deploy differen apps.\n- Apps developed by colleagues And 3rd Party Apps\n- Infratructure of your own or Public Cloud (Azure, AWS, GCP)\n- Backup of data and Monitoring of apps and infratructure",
+        "range": "15.01.2019 - heute"
     },
     {
-        "role":"IT",
-        "company":"Dr. Ellwanger & Kramm Versicherungsmakler GmbH & Co. KG",
-        "summary":"First Level Support, Second Level Support, Systemadministrator, DevOps",
-        "range":"01.06.2015 – 15.01.2019"
+        "role": "Systemadministrator",
+        "company": "Dr. Ellwanger & Kramm Versicherungsmakler GmbH & Co. KG",
+        "summary": "Keep the infrastructure running",
+        "range": "01.09.2016 – 15.01.2019"
     },
     {
-        "role":"Praktikum EDV - Abteilung",
-        "company":"EHEIM Verwaltungs GmbH",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"02.03.2015 – 30.04.2015"
+        "role": "Second Level Support",
+        "company": "Dr. Ellwanger & Kramm Versicherungsmakler GmbH & Co. KG",
+        "range": "01.10.2015 – 01.09.2016"
+    },
+    {
+        "role": "First Level Support",
+        "company": "Dr. Ellwanger & Kramm Versicherungsmakler GmbH & Co. KG",
+        "range": "01.06.2015 – 01.10.2015"
+    },
+    {
+        "role": "Praktikum EDV - Abteilung",
+        "company": "EHEIM Verwaltungs GmbH",
+        "summary": "Implemented continuous devops pipelines automationing",
+        "range": "02.03.2015 – 30.04.2015"
     }
 ]

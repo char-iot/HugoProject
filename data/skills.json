@@ -1,32 +1,87 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+    "grouping": "Architecture",
+    "skills": [
+      "IP Networking",
+      "DNS",
+      "Firewalls",
+      "Load Balancing",
+      "Microservices",
+      "SaaS/PaaS/IaaS"
+    ]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      "git",
+      "bash",
+      {
+        "name": "PowerShell",
+        "icon": "terminal"
+      },
+      {
+        "name": "golang",
+        "icon": "go"
+      },
+      "Java",
+      "Python",
+      "javascript",
+      {
+        "name": "Ubuntu",
+        "icon": "ubuntu"
+      },
+      {
+        "name": "CentOS",
+        "icon": "redhat"
+      }
+    ]
   },
   {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+    "grouping": "Platform Development & Administration",
+    "skills": [
+      "GitHub",
+      "NGINX",
+      "MySQL",
+      "Wordpress"
+    ]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+    "grouping": "Data Management",
+    "skills": [
+      {
+        "name": "Microsoft SQL Server",
+        "icon": "msql_server"
+      },
+      {
+        "name": "Oracle",
+        "icon": "database"
+      },
+      {
+        "name": "MariaDB|MySQL",
+        "icon": "mysql"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      {
+        "name": "Docker",
+        "link": "https://docker.com"
+      },
+      {
+        "name": "AWS",
+        "link": "https://aws.amazon.com"
+      },
+      {
+        "name": "Azure",
+        "link": "https://portal.azure.com"
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "google-cloud-platform",
+        "link": "https://cloud.google.com"
+      }
+    ]
   }
 ]
