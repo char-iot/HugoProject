@@ -16,6 +16,7 @@ firstName = "Hui"
 lastName = "JIN"
 phone = "+49-711-1234567"
 profileImage = "img/ProfilePic.png"
+dateformat = "02.01.2006"
 showEducation = true
 showExperience = true
 showOpenSource = true
@@ -23,7 +24,6 @@ showProjects = true
 showPublications = true
 showQr = true
 showSkills = true
-# sidebar, copyright & license
 copyright = "char-iot"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
