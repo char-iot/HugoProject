@@ -1,3 +1,6 @@
+/* theme colour purple #300030 */
+/* theme colour blue #007bff */
+
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
@@ -48,7 +51,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #300030;
+  color: #007bff;
 }
 
 .list-social-icons a .fa-lg {
@@ -66,6 +69,7 @@ h2 {
 #sideNav .navbar-nav .nav-item .nav-link {
   /* font-weight: 600; */
   font-size: 1.25rem;
+  /* color: #303030; */
   /* text-transform: uppercase; */
 }
 
