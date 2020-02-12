@@ -23,6 +23,7 @@ showProjects = true
 showPublications = true
 showQr = true
 showSkills = true
+description = "description here"
 
 [params.google]
 
@@ -40,6 +41,20 @@ name = "GitHub"
 [[params.handles]]
 link = "https://gitlab.com/char-iot/"
 name = "GitLab"
+
+
+## Social Accounts
+[params.social]
+    github = "char-iot"
+    # instagram = "<username>"
+    # xing = "<username>"
+    # linkedin = "<username>"
+    # twitter = "<username>"
+    # facebook = "<username>"
+    # stackoverflow = "<username>"
+    telegram = "@char_iot"
+    email = "hijcss@gmail.com"
+    # gravatar = "hijcss@gmail.com"
 
 [outputs]
 home = ["HTML", "JSON"]
