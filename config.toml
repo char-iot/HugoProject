@@ -23,6 +23,11 @@ showProjects = true
 showPublications = true
 showQr = true
 showSkills = true
+# sidebar, copyright & license
+copyright = "char-iot"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+showBuiltWith = true
 description = "description here"
 
 [params.google]
