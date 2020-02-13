@@ -1,10 +1,11 @@
-/* theme colour purple #300030 */
+/* theme colour purple #600060 */
 /* theme colour blue #007bff */
 
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96;
+  /* background-color: #002b36; */
 }
 
 @media (min-width: 992px) {
@@ -64,7 +65,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #300030;
+  color: #600060;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -148,15 +149,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #300030 !important;
+  background-color: #600060 !important;
 }
 
 .text-primary {
-  color: #300030 !important;
+  color: #600060 !important;
 }
 
 a {
-  color: #300030;
+  color: #600060;
 }
 
 a:hover,
